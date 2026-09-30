@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandipan Paul</h1>
-<h3 align="center">I am a passionate developer and creative problem solver who loves turning ideas into real-world digital products. I work across Web Development, AI, UI/UX, and Creative Design, with hands-on experience in React, JavaScript, Python, C++, and Three.js. Beyond coding, I create music, videos, and visual content, combining technology with creativity to build unique digital experiences. I enjoy solving complex problems, exploring new technologies, and constantly improving my skills. I don’t just learn technology—I build with it.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snadiok4923a" alt="snadiok4923a" /></a> </p>
+<h3 align="center">I am a developer and creative problem solver who loves turning ideas into real-world digital products. I work across Web Development, AI, UI/UX, and Creative Design,</h3>
 
 - 🔭 I’m currently working on [KrisiVeda](https://snadiok4923a.github.io/Agri_Dr)
-
-- 💬 Ask me about **Full Stack Dev**
-
-- 📫 How to reach me **paulsnadiok@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
