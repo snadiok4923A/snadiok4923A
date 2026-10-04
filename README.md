@@ -52,6 +52,14 @@ height="200"
 
 <div align="center">
 
+<div align="center">
+
+## 📈 Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=snadiok4923a&theme=github-compact&hide_border=true&area=true" />
+
+</div>
+
 ## 🌐 Let's Connect
 
 <a href="https://www.linkedin.com/in/sandipan-paul-345ab3280/">
