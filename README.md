@@ -10,7 +10,7 @@
 
 <div align="center">
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,threejs,tailwind,nodejs,mongodb,mysql,git,github,figma,aws,firebase,blender,unreal&perline=12" />
 
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-## 📊 GitHub
+## GitHub
 
 <table>
 <tr>
