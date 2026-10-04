@@ -30,7 +30,7 @@ I turn ideas into **modern digital experiences.**
 
 <div align="center">
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <br>
 
@@ -42,7 +42,7 @@ I turn ideas into **modern digital experiences.**
 
 <div align="center">
 
-## 📊 GitHub
+## GitHub
 
 <br>
 
