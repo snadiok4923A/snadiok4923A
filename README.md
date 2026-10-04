@@ -18,18 +18,6 @@ I turn ideas into **modern digital experiences.**
 
 <div align="center">
 
-## ✦ What I Do
-
-<br>
-
-`WEB` &nbsp; `AI` &nbsp; `UI/UX` &nbsp; `DESIGN` &nbsp; `CREATIVE`
-
-</div>
-
----
-
-<div align="center">
-
 ## Tech Stack
 
 <br>
