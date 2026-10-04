@@ -1,17 +1,185 @@
-<h1 align="center">Hi 👋, I'm Sandipan Paul</h1>
-<h3 align="center">I am a developer and creative problem solver who loves turning ideas into real-world digital products. I work across Web Development, AI, UI/UX, and Creative Design,</h3>
+<div align="center">
 
-- 🔭 I’m currently working on [KrisiVeda](https://snadiok4923a.github.io/Agri_Dr)
+# Hi 👋, I'm Sandipan Paul
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/aax0st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aax0st" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/aax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aax" height="30" width="40" /></a>
-</p>
+### Developer • AI Enthusiast • UI/UX Designer • Creative Builder
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+I love turning ideas into **modern, useful, and real-world digital experiences.**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=snadiok4923a&show_icons=true&locale=en&layout=compact" alt="snadiok4923a" /></p>
+I work across **Web Development, AI, UI/UX, Creative Design, and Interactive Experiences.**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snadiok4923a&" alt="snadiok4923a" /></p>
+<br>
+
+<a href="https://snadiok4923a.github.io/Agri_Dr">
+  <img src="https://img.shields.io/badge/🚀%20Currently%20Building-KrisiVeda-111827?style=for-the-badge&labelColor=111827" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ✦ What I Do
+
+</div>
+
+<table align="center">
+<tr>
+
+<td align="center" width="25%">
+
+### 💻
+**Web Development**
+
+Building responsive and modern web applications with clean interfaces and smooth user experiences.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+**AI & ML**
+
+Exploring artificial intelligence and machine learning to create smarter digital solutions.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎨
+**UI / UX**
+
+Designing minimal, intuitive and visually engaging digital experiences.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎬
+**Creative Design**
+
+Working with graphics, music, visual content and interactive digital experiences.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🛠️ Technologies & Tools
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,threejs,tailwind,nodejs,mongodb,mysql,git,github,figma,aws,firebase,blender,unreal&perline=9" />
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Current Focus
+
+`Artificial Intelligence` • `Machine Learning` • `React` • `Three.js` • `UI/UX` • `Creative Technology`
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub
+
+<br>
+
+<table>
+<tr>
+
+<td align="center">
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=snadiok4923a&layout=compact&hide_border=true&theme=transparent&langs_count=6" 
+  height="170"
+/>
+
+</td>
+
+<td align="center">
+
+<img 
+  src="https://streak-stats.demolab.com/?user=snadiok4923a&theme=transparent&hide_border=true&mode=weekly" 
+  height="170"
+/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 What I'm Building
+
+**KrisiVeda**
+
+A modern agriculture-focused platform designed to combine technology, data and intelligent tools to make farming information more accessible and useful.
+
+<br>
+
+<a href="https://snadiok4923a.github.io/Agri_Dr">
+  <img src="https://img.shields.io/badge/Explore%20KrisiVeda-Visit%20Project-111827?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ✦ A Little More About Me
+
+I enjoy taking an idea from **concept → design → development → final product**.
+
+I'm especially interested in building products that are:
+
+**Simple • Intelligent • Useful • Modern • Visually Appealing**
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Find Me Online
+
+<br>
+
+<a href="https://github.com/snadiok4923a">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-111827?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/sandipan-paul-345ab3280/">
+<img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.youtube.com/@Ax81347">
+<img src="https://img.shields.io/badge/YouTube-My%20Creative%20Work-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/aax0st">
+<img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+</a>
+
+<br><br>
+
+**Let's turn ideas into something real. ✦**
+
+</div>
