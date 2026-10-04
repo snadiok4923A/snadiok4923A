@@ -10,7 +10,7 @@
 
 <div align="center">
 
-## Tech Stack
+## ⚡ Tech Stack
 
 <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,threejs,tailwind,nodejs,mongodb,mysql,git,github,figma,aws,firebase,blender,unreal&perline=12" />
 
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-## GitHub
+## 📊 GitHub
 
 <table>
 <tr>
@@ -29,7 +29,7 @@
 
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=snadiok4923a&layout=donut&hide_border=true&theme=transparent&langs_count=5&title_color=58A6FF&text_color=FFFFFF"
-height="180"
+height="200"
 />
 
 </td>
@@ -38,7 +38,7 @@ height="180"
 
 <img
 src="https://streak-stats.demolab.com/?user=snadiok4923a&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E"
-height="180"
+height="200"
 />
 
 </td>
@@ -54,10 +54,6 @@ height="180"
 
 ## 🌐 Let's Connect
 
-<a href="https://github.com/snadiok4923a">
-<img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
 <a href="https://www.linkedin.com/in/sandipan-paul-345ab3280/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
