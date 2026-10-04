@@ -2,13 +2,7 @@
 
 # Hi 👋, I'm Sandipan Paul
 
-### Developer • AI • UI/UX • Creative Technology
-
-I turn ideas into **modern digital experiences.**
-
-<a href="https://snadiok4923a.github.io/Agri_Dr">
-<img src="https://img.shields.io/badge/🚀%20Building-KrisiVeda-111827?style=flat-square&labelColor=111827" />
-</a>
+### Full Stack Developer • AI • Machine Learning • UI/UX
 
 </div>
 
@@ -34,8 +28,8 @@ I turn ideas into **modern digital experiences.**
 <td align="center" width="50%">
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=snadiok4923a&layout=donut&hide_border=true&theme=transparent&langs_count=5"
-height="145"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=snadiok4923a&layout=donut&hide_border=true&theme=transparent&langs_count=5&title_color=58A6FF&text_color=FFFFFF"
+height="180"
 />
 
 </td>
@@ -43,8 +37,8 @@ height="145"
 <td align="center" width="50%">
 
 <img
-src="https://streak-stats.demolab.com/?user=snadiok4923a&theme=transparent&hide_border=true"
-height="145"
+src="https://streak-stats.demolab.com/?user=snadiok4923a&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E"
+height="180"
 />
 
 </td>
