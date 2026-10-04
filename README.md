@@ -51,28 +51,6 @@ height="200"
 <br>
 
 
-<div align="center">
-
-## 🚀 Featured Projects
-
-<a href="https://snadiok4923a.github.io/Agri_Dr">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=snadiok4923a&repo=Agri_Dr&theme=transparent&hide_border=true" />
-</a>
-
-<a href="YOUR_THOUGHTFLOW_REPO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=snadiok4923a&repo=Thought_Flow&theme=transparent&hide_border=true" />
-</a>
-
-</div>
-
-
-
-
-
-
-
-
-
 
 <div align="center">
 
