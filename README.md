@@ -50,15 +50,24 @@ height="200"
 
 <br>
 
-<div align="center">
+
+<br>
 
 <div align="center">
 
 ## 📈 Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=snadiok4923a&theme=github-compact&hide_border=true&area=true" />
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=snadiok4923a&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity"
+width="90%"
+/>
 
 </div>
+
+
+
+
+<div align="center">
 
 ## 🌐 Let's Connect
 
