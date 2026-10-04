@@ -6,51 +6,45 @@
 
 I turn ideas into **modern digital experiences.**
 
-<br>
-
 <a href="https://snadiok4923a.github.io/Agri_Dr">
-<img src="https://img.shields.io/badge/🚀%20Building-KrisiVeda-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/🚀%20Building-KrisiVeda-111827?style=flat-square&labelColor=111827" />
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-## Tech Stack
+## ⚡ Tech Stack
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,threejs,tailwind,nodejs,mongodb,mysql,git,github,figma,aws,firebase,blender,unreal&perline=9" />
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,threejs,tailwind,nodejs,mongodb,mysql,git,github,figma,aws,firebase,blender,unreal&perline=12" />
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-## GitHub
-
-<br>
+## 📊 GitHub
 
 <table>
 <tr>
 
-<td align="center">
+<td width="50%" align="center">
 
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=snadiok4923a&layout=compact&hide_border=true&theme=transparent&langs_count=5"
-height="160"
+height="135"
 />
 
 </td>
 
-<td align="center">
+<td width="50%" align="center">
 
 <img
 src="https://streak-stats.demolab.com/?user=snadiok4923a&theme=transparent&hide_border=true&mode=weekly"
-height="160"
+height="135"
 />
 
 </td>
@@ -60,28 +54,26 @@ height="160"
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-## 🌐 Find Me Online
-
-<br>
+## 🌐 Let's Connect
 
 <a href="https://github.com/snadiok4923a">
-<img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/sandipan-paul-345ab3280/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
+&nbsp;
 <a href="https://www.youtube.com/@Ax81347">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+<img src="https://img.shields.io/badge/YouTube-Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
-
+&nbsp;
 <a href="https://instagram.com/aax0st">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 </div>
