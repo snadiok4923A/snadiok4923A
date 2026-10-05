@@ -10,7 +10,7 @@
 
 <div align="center">
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,threejs,tailwind,nodejs,mongodb,mysql,git,github,figma,aws,firebase,blender,unreal&perline=12" />
 
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-## 📊 GitHub
+## GitHub
 
 <table>
 <tr>
@@ -54,7 +54,7 @@ height="200"
 
 <div align="center">
 
-## 🌐 Let's Connect
+## Let's Connect
 
 <a href="https://www.linkedin.com/in/sandipan-paul-345ab3280/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
