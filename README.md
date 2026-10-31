@@ -29,9 +29,9 @@
 <td align="center" width="50%">
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=snadiok4923A&layout=compact&hide_title=true&hide_border=true&theme=transparent&langs_count=8&card_width=400&title_color=58A6FF&text_color=FFFFFF"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=snadiok4923A&layout=compact&hide_title=true&hide_border=true&theme=transparent&langs_count=8&title_color=58A6FF&text_color=FFFFFF"
 height="200"
-alt="Programming Languages and Percentages"
+alt="Top Programming Languages"
 />
 
 </td>
