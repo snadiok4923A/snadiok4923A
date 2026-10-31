@@ -25,14 +25,6 @@
 <table>
 <tr>
 
-<td align="center" width="50%">
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=snadiok4923a&layout=donut&hide_border=true&theme=transparent&langs_count=5&title_color=58A6FF&text_color=FFFFFF&text_bold=true"
-height="200"
-/>
-
-</td>
 
 <td align="center" width="50%">
 
