@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Hi 👋, I'm Sandipan Paul
@@ -25,12 +26,22 @@
 <table>
 <tr>
 
+<td align="center" width="50%">
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=snadiok4923A&layout=compact&hide_title=true&hide_border=true&theme=transparent&langs_count=8&card_width=400&title_color=58A6FF&text_color=FFFFFF"
+height="200"
+alt="Programming Languages and Percentages"
+/>
+
+</td>
 
 <td align="center" width="50%">
 
 <img
-src="https://streak-stats.demolab.com/?user=snadiok4923a&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E&currStreakNum=58A6FF&sideNums=58A6FF"
+src="https://streak-stats.demolab.com/?user=snadiok4923A&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E&currStreakNum=58A6FF&sideNums=58A6FF"
 height="200"
+alt="GitHub Streak"
 />
 
 </td>
@@ -41,8 +52,6 @@ height="200"
 </div>
 
 <br>
-
-
 
 <div align="center">
 
